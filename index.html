@@ -9,6 +9,7 @@
 }
 body {
     background-color: #48AAC9;
+    padding: 50px 25px;
 }
 ul {
     list-style-type: none;
@@ -47,6 +48,24 @@ img {
     width: 192px;
     height: 150px;
 }
+
+/* --- footer --- */
+footer {
+  width: 100%;
+  background-color: #2A5484;
+  padding: 150px 0px;
+}
+
+.footerCol {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 </style>
 
 
@@ -78,14 +97,19 @@ img {
   </about>
 
 
-<footer>
-  <findUs>
-    <p>Contacto: (número de contacto aquí)<br>Redes sociales:
-      <a href="https://www.facebook.com/cfparismexicoac"><img src="assets\facebook-square-brands.svg" alt="Logo Paris Mexico"></a>
-    </p>
-  </findUs>
-</footer>
+
 
 
 </body>
+
+<footer>
+  <div class="footerRow">
+    <div class="footerCol"><p>Contribuyendo al desarrollo de la juventud de México<br><br><br>&copy;2018 ITESM CEM</p></div>
+    <div class="footerCol"><p><b>Explorar</b><br><a href="Futbol.html">Futbol</a><br>
+      <a href="Ajedrez.html">Ajedrez</a><br><a href="Robotica.html">Robotica</a></p></div>
+    <div class="footerCol"> <p>Contacto: (número de contacto aquí)<br>Redes sociales:
+      <a href="https://www.facebook.com/cfparismexicoac"><img src="assets\facebook-square-brands.svg" alt="Logo Paris Mexico"></a>
+    </p> </div>
+  </div>
+</footer>
 </html>
