@@ -10,6 +10,7 @@
 body {
     background-color: #48AAC9;
     padding: 50px 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 ul {
     list-style-type: none;
@@ -41,26 +42,30 @@ li a:hover:not(.active) {
     background-color: rgb(38, 106, 174);
 }
 
-img {
+img.logoprinc {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 192px;
-    height: 150px;
+    width: 200px;
+    height: 156px;
 }
 
 
 
 /* --- footer --- */
 footer {
-  width: 100%;
+
   background-color: #2A5484;
-  padding: 150px 0px;
+  padding: 0;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  position: static;
 }
 
 .footerCol {
   float: left;
-  width: 33.33%;
+  width: 20%;
 }
 
 .row:after {
@@ -76,15 +81,16 @@ footer {
 </head>
 
 <header>
-  <img src="assets\logoCEFORPARIS.png" alt="Logo Paris Mexico">
+  <img class="logoprinc" src="assets\logoCEFORPARIS.png" alt="Logo Paris Mexico">
 </header>
 
 <nav>
     <ul>
-        <li><a class="active" href="Futbol.html">Futbol</a></li>
+        <li><a  href="index.html">Menu Principal</a></li>
+        <li><a  href="Futbol.html">Futbol</a></li>
         <li><a href="Ajedrez.html">Ajedrez</a></li>
-        <li><a href="Robotica.html">Robotica</a></li>
-        <li><a href="ServicioSocialCEM.html">Servicio Social</a></li>
+        <li><a class="active" href="Robotica.html">Robotica</a></li>
+        <li><a  href="ServicioSocialCEM.html">Servicio Social</a></li>
       </ul>
 </nav>
 
@@ -104,14 +110,16 @@ footer {
 
 <footer>
   <div class="footerRow">
-    <div class="footerCol"><p>Contribuyendo al desarrollo de la juventud de México<br><br><br>&copy;2018 ITESM CEM</p></div>
-    <div class="footerCol"><p><h3>Explorar</h3><a href="index.html">Página principal</a><br><a href="Futbol.html">Futbol</a><br>
-      <a href="Ajedrez.html">Ajedrez</a></p></div>
-    <div class="footerCol"> <p>Contacto:<br>Jesús García<br>5540601059<br><br>Redes sociales:<br>
-      <a href="https://www.facebook.com/cfparismexicoac"><img src="assets\facebook-square-brands.svg" alt="Logo Facebook"
-        style="width:65px;height:65px;"></a>
+    <div class="footerCol"><p>Contribuyendo al desarrollo de la juventud de México</p></div>
+    <div class="footerCol"><p><a><b>Explorar </b></a><a href="Futbol.html">Futbol</a>
+      <a href="Ajedrez.html">Ajedrez</a><a href="Robotica.html">Robotica</a></p></div>
+    <div class="footerCol"> <p>Contacto: Jesús García 5540601059</p> </div>
+    <div class="footerCol"> <p> Redes sociales:
+      <a href="https://www.facebook.com/cfparismexicoac"><img src="assets\facebook.png" alt="Logo Facebook"
+        style="width:15px;height:15px;"></a>
     </p> </div>
   </div>
 </footer>
+<p><br>&copy;2018 ITESM CEM</p>
 
 </html>
