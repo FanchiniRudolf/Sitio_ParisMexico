@@ -1,0 +1,288 @@
+/*
+colors
+red: #e51837; rgb(229,24,55)
+gray: #808080;
+*/
+
+/************Reset**************/
+* { 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box; 
+} 
+ol, ul { 
+	list-style: none;
+	margin: 0;
+	padding: 0;
+} 
+table { 
+	border-collapse: collapse; 
+	border-spacing: 0; 
+}
+
+legend {
+	display: none;
+}
+/************End Reset**************/
+
+/************Global**************/
+a {
+	color: #808080;
+	text-decoration: none;
+}
+a:hover, a:focus {
+	color: #e51837;
+}
+p {
+	margin: 0 0 1em;
+}
+img, object, video {
+	max-width: 100%;
+	border: 0;
+}
+a img {
+	border: 0;
+	outline: 0;
+}
+
+blockquote {
+	border-left: 0.5em solid #ddd;
+	padding-left: 1em;
+	margin-left: 1em;
+}
+small {
+	color: #e51837;
+}
+
+input, textarea {
+	border: 1px solid #000;
+}
+
+input[type=search] {
+	-webkit-appearance: none;
+	border-radius: 0;
+}
+::-webkit-input-placeholder {
+	color: #808080;
+}
+:-moz-placeholder {  
+    color: #808080;
+}
+/************End Global**************/
+
+/************Classes**************/
+.inactive {
+	color: #ddd;
+}
+/************End Classes**************/
+
+/************Structure**************/
+.container {
+	max-width: 70em;
+	margin: 0 auto;
+	padding: 0 1em;
+	overflow: hidden;
+}
+div[role=main] {
+	padding-bottom: 1em;
+}
+
+
+
+/*Grid*/
+.grid {
+	margin: 0 -1em;
+	overflow: hidden;
+}
+.grid:target {
+	-webkit-animation: fadeout 5s 1 ease-out;
+    -moz-animation: fadeout 5s 1 ease-out; 
+    -o-animation: fadeout 5s 1 ease-out;
+    animation: fadeout 5s 1 ease-out; 
+}
+.grid > h2 {
+	margin-left: 0.45em;
+}
+.grid > section {
+	padding: 1em 1em 0.5em;
+}
+.grid > section:target {
+	-webkit-animation: fadeout 5s 1 ease-out;
+    -moz-animation: fadeout 5s 1 ease-out; 
+    -o-animation: fadeout 5s 1 ease-out;
+    animation: fadeout 5s 1 ease-out; 
+}
+.grid ul {
+	overflow: hidden;
+}
+.grid ul li {
+	margin-bottom: 0.3em;
+}
+.featured:after {
+	content: "*";
+	color: #e51837;
+}
+
+/*Fluid*/
+.fluid {
+	display: block;
+	margin: 0 auto;
+	max-width: 40em;
+}
+
+/*Homepage*/
+.home h1 {
+	margin-bottom: 0.2em;
+}
+.intro {
+	font-size: 1.8em;
+	line-height: 1.2;
+	margin: 0 auto;
+}
+.intro a:hover ,.intro a:focus {
+	color: #000;
+	border-bottom-color: #000;
+}
+
+.ani {
+	position: relative;
+	height: 15em;
+	margin: 1em 0 0;
+	width: 100%;
+	z-index: 0;
+}
+.ani div {
+	width: 100%;
+}
+.ani div b {
+	display: block;
+	position: absolute;
+	top: 5%;
+	right: 5%;
+	bottom: 5%;
+	left: 5%;
+	background: rgba(229,24,55,0.22);
+}
+
+/* Button Stlyes */
+.block-btn {
+	color: #fff;
+	background: #000;
+	display: inline-block;
+	margin: 1.5em 0;
+	font-size: 110%;
+	padding: 1em;
+}
+.block-btn:hover, .block-btn:focus {
+	color: #fff;
+	background: #e51837;
+}
+
+/*Patterns*/
+.mod {
+	padding: 1em;
+}
+.pattern {
+	background: #f7f7f7;
+	border-bottom: 1px solid #808080;
+	margin-bottom: 1em;
+	overflow: hidden;
+}
+.pattern-description h1 {
+	font-size: 3.4em;
+	margin-bottom: 0.5em;
+}
+.pattern-description {
+	max-width: 40em;
+	margin: 0 auto;
+}
+.pattern-description ul, .pattern-description ol {
+	margin-bottom: 2em;
+}
+.pattern-description li {
+	margin-bottom: 1em;
+}
+
+
+/*Blog*/
+/*Blog Header*/
+.blog .container {
+	max-width: 62em;
+}
+.blog header[role=banner] {
+	overflow: hidden;
+	margin-bottom: 2em;
+	padding: 2em 0 1em;
+	border-bottom: 1px solid #000;
+}
+.blog-logo {
+	font-weight: normal;
+	font-size: 1.2em;
+	margin: 0 0 1em;
+}
+.blog-logo img {
+	width: 3.3em;
+}
+.blog-logo a {
+	color: #000;
+}
+.search-form {
+	width: 100%;
+	margin-bottom: 1em;
+}
+.search-field {
+	width: 100%;
+	padding: 0.5em 0;
+	border: 0;
+	border-bottom: 1px solid #808080;
+	outline: none;
+}
+.search-field:focus {
+	background: #e51837;
+	color: #fff;
+}
+.search-field:focus::-webkit-input-placeholder {
+   color: #fff;
+}
+
+.search-field:focus :-moz-placeholder {  
+   color: #fff; 
+}
+
+.blog .nav {
+	clear: both;
+}
+.blog .nav a {
+	display: block;
+	font-weight: bold;
+	color: #000;
+}
+.blog .nav a:hover {
+	color: #e51837;
+}
+
+/*Posts*/
+
+
+
+/* CSS Animations */
+@-webkit-keyframes fadeout {
+  0%   { background: #fff; }
+  10%   { background: #eee; }
+  100% { background: #fff; }
+}
+@-moz-keyframes fadeout {
+  0%   { background: #fff; }
+  10%   { background: #eee; }
+  100% { background: #fff; }
+}
+@-o-keyframes fadeout {
+  0%   { background: #fff; }
+  10%   { background: #eee; }
+  100% { background: #fff; }
+}
+@keyframes fadeout {
+  0%   { background: #fff; }
+  10%   { background: #eee; }
+  100% { background: #fff; }
+}
