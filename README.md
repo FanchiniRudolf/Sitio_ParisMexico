@@ -4,7 +4,7 @@ Sitio web para el Centro de Formación París México A.C.
 
 Muestra al público las actividades de este centro para el beneficio de comunidades vulnerables a partir de programas de deportes, talleres de ajedrez y de robótica.
 
-## Objetivos del proyecto :dart:
+## Por implementar: :dart:
 
 Implementar espacio para registros de alumnos (base de datos).
 
