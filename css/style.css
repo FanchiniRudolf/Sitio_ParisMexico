@@ -434,6 +434,7 @@ body {
     opacity: 0;
   }
 }
+
 @keyframes buttonFadeInUp {
   0% {
     bottom: 30px;

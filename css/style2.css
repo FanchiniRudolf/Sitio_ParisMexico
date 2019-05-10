@@ -30,7 +30,7 @@
 }
 .cards:hover {
   box-shadow: 0 0 2em #999;
-  height: 38em;
+  height: 30em;
   
   -webkit-transition: height 0.3s ease, box-shadow 0.5s ease;
   transition: height 0.3s ease, box-shadow 0.5s ease;
@@ -98,7 +98,7 @@
 }
 
 .prueba{
-    border-top-width: 10px;
+  border-top-width: 10px;
   border-right-width: 1em;
   border-bottom-width: thick;
   border-left-width: thin;
