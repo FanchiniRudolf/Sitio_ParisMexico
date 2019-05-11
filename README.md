@@ -35,6 +35,8 @@ Muestra al público las actividades de este centro para el beneficio de comunida
 ### No duden en contactarnos si tienen dudas o hay algo que no aclaramos aquí
 
 * **Roberto** - :e-mail: - a01374866@itesm.mx
+* **Rudolf** - :e-mail: - a01374448@itesm.mx
+
 
 
 ---
