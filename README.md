@@ -8,10 +8,12 @@ Muestra al público las actividades de este centro para el beneficio de comunida
 * Implementar espacio para registros de alumnos (base de datos). (ON HOLD) --> checar precios
 * Redimensionar imágenes
 
-## Autores: :black_nib:
+## Encargados: :black_nib:
 
+#### Semestre Ene-May 2019
 * **Rudolf Fanchini** - [GitHub](https://github.com/FanchiniRudolf)
 * **Joaquin Rios** - [GitHub](https://github.com/joaquinrios)
+* **Sadot Bravo**
 * **Roberto Tellez** - [GitHub](https://github.com/r7perezyera)
 
 ## Requisitos 📋
