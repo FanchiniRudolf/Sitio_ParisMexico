@@ -1,13 +1,41 @@
-# Sitio París México A.C.
+# Sitio web para el Centro de Formación París México A.C.
 
-Sitio web para el Centro de Formación París México A.C.
 
 Muestra al público las actividades de este centro para el beneficio de comunidades vulnerables a partir de programas de deportes, talleres de ajedrez y de robótica.
 
 ## Por implementar: :dart:
 
-Implementar espacio para registros de alumnos (base de datos).
+Implementar espacio para registros de alumnos (base de datos). (ON HOLD) --> checar precios
+Redimensionar imágenes
 
+## Autores: :black_nib:
+
+* **Rudolf Fanchini** - *:computer:* - [GitHub](https://github.com/FanchiniRudolf)
+* **Joaquin Rios** - *:computer:* - [GitHub](https://github.com/joaquinrios)
+* **Roberto Tellez** - *:computer:* - [GitHub](https://github.com/r7perezyera)
+
+## Requisitos 📋
+
+### Skills recomendados :muscle: :nerd_face:
+
+* Uso de Git y GitHub, en especial para trabajar de forma colaborativa en el sitio :octocat:
+* Conocimientos de HTML5 y CSS3 por lo menos, para gestionar y mantener el código de la página.
+* Conocimientos de AWS
+* Conocimientos sobre tu editor de texto favorito ...y tener uno instalado, claro.
+
+### Adicionales :star2:
+
+* Para entender a la perfección qué está pasando aquí (bueno, a nivel código), recomendamos que tengas bien el concepto de qué es un _website builder_, como el que se empleó para construir esta página.
+* Conocimientos sobre diseño e implementación de bases de datos relacionales (es probable que lo necesitemos pronto)
+* Saber moverte en tu terminal
+
+## A los futuros responsables de este proyecto:
+### No duden en contactarnos si tienen dudas o hay algo que no aclaramos aquí
+
+* **Roberto** - :e-mail: - a01374866@itesm.mx
+
+
+---
 
 ### Old README:
 
