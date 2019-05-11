@@ -10,9 +10,9 @@ Muestra al público las actividades de este centro para el beneficio de comunida
 
 ## Autores: :black_nib:
 
-* **Rudolf Fanchini** - *:computer:* - [GitHub](https://github.com/FanchiniRudolf)
-* **Joaquin Rios** - *:computer:* - [GitHub](https://github.com/joaquinrios)
-* **Roberto Tellez** - *:computer:* - [GitHub](https://github.com/r7perezyera)
+* **Rudolf Fanchini** - [GitHub](https://github.com/FanchiniRudolf)
+* **Joaquin Rios** - [GitHub](https://github.com/joaquinrios)
+* **Roberto Tellez** - [GitHub](https://github.com/r7perezyera)
 
 ## Requisitos 📋
 
