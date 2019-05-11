@@ -24,6 +24,7 @@ Muestra al público las actividades de este centro para el beneficio de comunida
 * Conocimientos de HTML5 y CSS3 por lo menos, para gestionar y mantener el código de la página.
 * Conocimientos de AWS
 * Conocimientos sobre tu editor de texto favorito ...y tener uno instalado, claro.
+* Conocimientos sobre compra de dominios, Akky Mx, route53 y DNS.
 
 ### Adicionales :star2:
 
