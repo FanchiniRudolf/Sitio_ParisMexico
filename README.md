@@ -5,8 +5,8 @@ Muestra al público las actividades de este centro para el beneficio de comunida
 
 ## Por implementar: :dart:
 
-Implementar espacio para registros de alumnos (base de datos). (ON HOLD) --> checar precios
-Redimensionar imágenes
+* Implementar espacio para registros de alumnos (base de datos). (ON HOLD) --> checar precios
+* Redimensionar imágenes
 
 ## Autores: :black_nib:
 
