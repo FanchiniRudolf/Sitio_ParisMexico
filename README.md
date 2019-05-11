@@ -18,7 +18,7 @@ Muestra al público las actividades de este centro para el beneficio de comunida
 
 ## Requisitos 📋
 
-### Skills recomendados :muscle: :nerd_face:
+### Skills altamente recomendados :muscle: :nerd_face:
 
 * Uso de Git y GitHub, en especial para trabajar de forma colaborativa en el sitio :octocat:
 * Conocimientos de HTML5 y CSS3 por lo menos, para gestionar y mantener el código de la página.
