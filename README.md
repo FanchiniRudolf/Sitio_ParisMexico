@@ -1,66 +1,38 @@
-# Sitio web para el Centro de Formación París México A.C.
+# Centro de Formación París México A.C.
 
+Repositio del sitio web para el CEFOR Paris-México. En este se muestra al público las actividades de este centro para el beneficio de comunidades vulnerables a partir de programas de deportes, talleres de ajedrez y de robótica.
 
-Muestra al público las actividades de este centro para el beneficio de comunidades vulnerables a partir de programas de deportes, talleres de ajedrez y de robótica.
+## Por implementar:
 
-## Por implementar: :dart:
+- [ ] Implementar espacio para registros de alumnos (base de datos).
+- [ ] Redimensionar imágenes
 
-* Implementar espacio para registros de alumnos (base de datos). (ON HOLD) --> checar precios
-* Redimensionar imágenes
+## Desarrolladores:
 
-## Encargados: :black_nib:
-
-#### Semestre Ene-May 2019
+#### JAN-MAY 2019
 * **Rudolf Fanchini** - [GitHub](https://github.com/FanchiniRudolf)
 * **Joaquin Rios** - [GitHub](https://github.com/joaquinrios)
 * **Sadot Bravo**
 * **Roberto Tellez** - [GitHub](https://github.com/r7perezyera)
 
-## Requisitos 📋
+#### MAY-AUG 2019
+* **[Jordan González](github.com/duncanista)**
+* **Luis E. Neri**
 
-### Skills altamente recomendados :muscle: :nerd_face:
+## Requerimientos
+Es necesario tener conocimientos de las siguientes tecnologías para poder contribuir.
 
-* Uso de Git y GitHub, en especial para trabajar de forma colaborativa en el sitio :octocat:
-* Conocimientos de HTML5 y CSS3 por lo menos, para gestionar y mantener el código de la página.
-* Conocimientos de AWS
-* Conocimientos sobre tu editor de texto favorito ...y tener uno instalado, claro.
-* Conocimientos sobre compra de dominios, Akky Mx, route53 y DNS.
+* Git y GitHub. :octocat:
+* HTML y CSS.
+* AWS.
+* DNS (Domain, routing y FTP).
 
-### Adicionales :star2:
+## Información adicional
 
-* Para entender a la perfección qué está pasando aquí (bueno, a nivel código), recomendamos que tengas bien el concepto de qué es un _website builder_, como el que se empleó para construir esta página.
-* Conocimientos sobre diseño e implementación de bases de datos relacionales (es probable que lo necesitemos pronto)
-* Saber moverte en tu terminal
+* Se utilizó un _website builder_ para la página, por ende, es necesario leer la mayor parte para entenderle.
+* Se busca implementar una base de datos relacional.
 
-## A los futuros responsables de este proyecto:
-### No duden en contactarnos si tienen dudas o hay algo que no aclaramos aquí
+## Contribuciones
 
-* **Roberto** - :e-mail: - a01374866@itesm.mx
-* **Rudolf** - :e-mail: - a01374448@itesm.mx
+Si quieres aportar al proyecto, contacta a cualquiera de los colaboradores, de otro modo, crea un **pull request** con la información que buscas añadir.
 
-
-
----
-
-### Old README:
-
-# Sitio_ParisMexico
-
-Home Page:
-  index.html: Pagina inicial donde habra donativos, informacion de la asociacion y footer
-
-Actividades:
-  Ajedrez.html: Sitio Informativo de la actividad de Ajedrez, fotos equipo y footer
-  Futbol.html: Sitio Informativo de la actividad de Futbol, fotos equipo y footer
-  Robotica.html: Sitio Informativo de la actividad de Robotica, fotos equipo y footer
-
-  Footer:
-    redes sociales
-
-Servicio Social:
-  ServicioSocialAlumno.html: Login de admins y alumnos
-  ServicioSocialCEM.html: Pagina donde los alumnos subiran las Actividades
-  SerivicioSocialEncargados.html: Pagina donde los administradores revisaran las Actividades y agregaran alumno
-
-PHP:
-  Hacen lo que dice el nombre
