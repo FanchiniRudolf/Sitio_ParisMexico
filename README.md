@@ -16,7 +16,7 @@ Repositio del sitio web para el CEFOR Paris-México. En este se muestra al públ
 * **Roberto Tellez** - [GitHub](https://github.com/r7perezyera)
 
 #### MAY-AUG 2019
-* **[Jordan González](github.com/duncanista)**
+* **[Jordan González](https://github.com/duncanista)**
 * **Luis E. Neri**
 
 ## Requerimientos
