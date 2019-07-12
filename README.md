@@ -4,8 +4,8 @@ Repositio del sitio web para el CEFOR Paris-México. En este se muestra al públ
 
 ## Por implementar:
 
-- [ ] Implementar espacio para registros de alumnos (base de datos).
-- [ ] Redimensionar imágenes
+- [ ] Registro de alumnos, base de datos.
+- [ ] Redimensionar imágenes.
 
 ## Desarrolladores:
 
