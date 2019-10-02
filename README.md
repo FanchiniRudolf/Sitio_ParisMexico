@@ -19,6 +19,11 @@ Repositio del sitio web para el CEFOR Paris-México. En este se muestra al públ
 * **[Jordan González](https://github.com/duncanista)**
 * **Luis E. Neri**
 
+#### AUG-DEC 2019
+* **Álvaro C. Ramírez** - [GitHub](https://github.com/Stick747)
+* **Daniel Córdova** - [GitHub](https://github.com/DanCordova)
+* **Roberto Gervacio** - [GitHub](https://github.com/robtry)
+
 ## Requerimientos
 Es necesario tener conocimientos de las siguientes tecnologías para poder contribuir.
 
